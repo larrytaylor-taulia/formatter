@@ -4,7 +4,7 @@
 # @globalSQLFormat.py
 ## Written by Larry Taylor
 
-### [!Purpose]: Formats your SQL script data input
+### [!Note]: Formats your SQL script data input
 
  Usage: - [1] Save the Python script anywhere on your drive
 
