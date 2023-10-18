@@ -2,9 +2,9 @@
 
 ![image](https://github.com/larrytaylor-taulia/formatter/assets/127804365/2fcb967e-0b37-4592-a7b1-477c6662ed21)
 
-##FAQExcelToSQL.py
+## FAQExcelToSQL.py
 
-#_Written by Larry Taylor
+# Written by Larry Taylor
 
  **Purpose:** Formats the Excel Data Dump from Stage REDASH into the SQL Insert for PROD
 
