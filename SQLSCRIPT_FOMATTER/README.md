@@ -13,12 +13,12 @@
 
         - [3] From the command line type:  source .zshrc
 
-        - [4] To use: cd to the directory location where your SQL and file of ids or (input data to be quoted) files resides.
+        - [4] To use: cd to the directory location where your SQL and file of ids or (input data to be quoted) resides.
 
         - [5] type: formatsql
 
         - [6] Follow the prompts to complete the format process as follows:
-        <code>
+  ```
         ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
                                 SQL INSERT FILE FORMATTER
   
@@ -27,5 +27,5 @@
                                 ENTER [q] TO QUIT at Anytime
         ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 
-        What is the SUP ticket number? [Enter the number only:] </code>
-
+        What is the SUP ticket number? [Enter the number only:] 
+```
