@@ -1,7 +1,5 @@
 
-<picture>
-  <source media="(min-width: 10px)" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
+![image](https://github.com/larrytaylor-taulia/formatter/assets/127804365/2fcb967e-0b37-4592-a7b1-477c6662ed21)
 
 # @globalSQLFormat.py
 ## Written by Larry Taylor
