@@ -1,7 +1,7 @@
 
 ![image](https://github.com/larrytaylor-taulia/formatter/assets/127804365/2fcb967e-0b37-4592-a7b1-477c6662ed21)
 
-# @globalSQLFormat.py
+#  globalSQLFormat.py
 ## Written by Larry Taylor
 
 ### [!Note]: Formats your SQL script data input
