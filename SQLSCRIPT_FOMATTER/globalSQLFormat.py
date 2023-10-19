@@ -100,5 +100,5 @@ else:
   redash() 
 
 print("||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||")        
-print("\n**All Done - Refer to your new SQL file: "+ ff)
+print("\n**All Done - Refer to your new SQL Script: "+ ff)
 print("\n||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||")   
