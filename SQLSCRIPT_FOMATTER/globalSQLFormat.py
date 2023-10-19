@@ -70,7 +70,7 @@ def okb():
       lines = df.readlines()  
       for l in lines:
         last_line = lines[-1].strip() 
-        if l != last_line:
+        if l.strip() != last_line:
            fsql.write("'{:<10}".format(l.strip()) + "',\n")
         else:
            fsql.write("'{:<10}".format(l.strip()) + "');\n")
@@ -79,7 +79,7 @@ def okb():
 
 def redash(): 
  with open(sqlfile) as sql:
-      fsql = open(ff, "a")
+      fsql = open(ff, "w")
       for s in sql:
        if s.strip():
         fsql.write("{:<10}".format(s.strip()) + "\n")
@@ -88,7 +88,7 @@ def redash():
       lines = df.readlines()  
       for l in lines:
         last_line = lines[-1].strip() 
-        if l != last_line:
+        if l.strip() != last_line:
            fsql.write("'{:<10}".format(l.strip()) + "',\n")
         else:
            fsql.write("'{:<10}".format(l.strip()) + "');\n")
